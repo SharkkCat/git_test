@@ -1,2 +1,4 @@
 # git_test
-Odin Project Learning
+
+My learning Github Repo
+Hello Odin!
